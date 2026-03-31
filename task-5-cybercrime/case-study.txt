@@ -1,0 +1,28 @@
+
+Case Study
+
+Title: UPI Fraud Case Study
+
+With the rapid growth of digital payments in India, UPI fraud has become a common cybercrime. In this case, a user received a phone call from an unknown person pretending to be a bank representative. The caller informed the user about a fake issue with their bank account and asked them to “verify” their details. The fraudster then sent a UPI collect request and instructed the user to approve it, claiming it was needed to resolve the issue.
+
+Trusting the caller, the user approved the request and unknowingly transferred money to the scammer. Within minutes, a significant amount was deducted from their bank account. The fraudster then became unreachable, and the user realized they had been scammed.
+
+The victim immediately reported the incident on cybercrime.gov.in and contacted the cybercrime helpline 1930 to block further transactions. Due to quick action, part of the money was recovered, but the incident caused financial stress and highlighted the risks associated with digital payments.
+
+This case shows how scammers exploit trust and lack of awareness. It emphasizes the importance of being cautious while handling UPI requests and not sharing sensitive information with unknown individuals.
+
+
+
+
+UPI Fraud Prevention Tips:
+
+Never approve unknown UPI collect requests
+Do not share OTP, PIN, or bank details
+Avoid clicking on suspicious links
+Verify caller identity before trusting
+Use official banking apps only
+Enable transaction alerts
+Regularly check bank statements
+Install apps only from trusted sources
+Immediately report fraud on cybercrime.gov.in
+Call helpline 1930 in case of fraud
